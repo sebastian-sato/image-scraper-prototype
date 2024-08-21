@@ -1,0 +1,23 @@
+dog
+puppy
+puppies
+poodle
+doodle
+german shepherd
+lab
+labrador
+bulldog
+pug
+retriever
+yorkshire
+terrier
+beagle
+rottweiler
+irish setter
+corgi
+shiba inu
+hound
+chihuahua
+mutt
+dane
+mongrel
